@@ -1,0 +1,4 @@
+# tipo;nome;vidaAtual
+Guerreiro;duda;130
+Mago;gabi;85
+Arqueiro;suekanallas;95
